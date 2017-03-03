@@ -1,0 +1,12 @@
+name: SimpleWarp
+main: com.mengcraft.simplewarp.Main
+version: 0.1
+
+permissions:
+  simplewarp.admin:
+    description: Operator permission.
+    default: op
+    
+  simplewarp.use:
+     description: Default permission.
+     default: true
